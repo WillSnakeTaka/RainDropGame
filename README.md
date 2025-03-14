@@ -1,5 +1,5 @@
 🎮 Rain Drop Game 🌧️
-
+[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://www.linkedin.com/posts/willtaka_ok-i-did-it-this-is-literally-one-of-the-activity-7306195836483375104--Dqc?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)" width="50%">](https://www.linkedin.com/posts/willtaka_ok-i-did-it-this-is-literally-one-of-the-activity-7306195836483375104--Dqc?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy")  
 Originally inspired by Lullatone's RainDropMaker, this project was modified during a collaboration with my talented teammate, Heipeng.
 
 Guidelines & Key Concepts
