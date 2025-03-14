@@ -1,6 +1,6 @@
 Rain Drop Game 
-Inspired by Lullatone's RainDropMaker
-Thanks Prof Palmquist for the idea
+Originally inspired by Lullatone's RainDropMaker
+Modified during collabration with teammate Heipeng. 
 
 1) Use html 5 as guidelines
 2) Learn sprite sheet within html
@@ -17,4 +17,5 @@ To run the project with sounds
 
 
 Here is the html version without sound hosting. To hear sounds please follow the above steps.
+
 
